@@ -2,3 +2,6 @@ Author: Khanet Buasod
 Section: 2
 I am responsible for: Quick sort
 Team: BITKHAI
+Semester 2/2568
+
+
